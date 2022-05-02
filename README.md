@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm an undergrad physics student at the [Universidad de Guanajuato's](https://www.ugto.mx/en/) Science and engineering division [DCI](http://www.dci.ugto.mx/) in León city. I'm interested in data science, data analysis, quantum optics, molecular simulation, and optimization.
+I'm an undergrad physics student at the [Universidad de Guanajuato's](https://www.ugto.mx/en/) Science and engineering division [DCI](http://www.dci.ugto.mx/) in León city. I'm interested in data science, data analysis, quantum optics, molecular and microsimulation, and optimization.
 ___
 Contact me: [e-mail 📧](mailto:delatorrena2016@licifug.ugto.mx).
 
