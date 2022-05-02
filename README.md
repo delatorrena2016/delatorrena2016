@@ -6,7 +6,14 @@ Contact me: [e-mail](mailto:delatorrena2016@licifug.ugto.mx).
 ___
 ## Technologies & Tools.
 
-![](https://img.shields.io/badge/<Code>-<Python>-informational?style=plastic&logo=micropython&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<Code>-<C/C++>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=plastic&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C-informational?style=plastic&logo=c&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C++-informational?style=plastic&logo=cpluplus&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Fortran-informational?style=flat&logo=fortran&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Colab-informational?style=plastic&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Microsoft-informational?style=plastic&logo=microsoft&logoColor=white&color=2bbc8a)
+
+
 ___
 ## Active member at:
